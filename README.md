@@ -73,20 +73,20 @@ I'm a passionate **Computer Science student** at **1337 School (42 Network)** in
 
 ## 🚧 Featured Projects
 
-### 🔧 [Project Name 1](https://github.com/yourusername/project1)
-Brief description of your most impressive project. What problem does it solve? What technologies did you use?
+###  [Inception](https://github.com/Simow03/1337-Inception)
+System administration, containerization and orchestrating services
 
-**Tech Stack:** `C` `Makefile` `Unix Systems`
+**Tech Stack:** `Docker` `NGNIX` `WordPress` `MariaDB`
 
-### 🌐 [Project Name 2](https://github.com/yourusername/project2)
-Another significant project showcasing different skills - maybe a web application or algorithm implementation.
+###  [IRC](https://github.com/Simow03/1337-ft_IRC)
+Internet Relay Chat application supporting multiple clients with core chat functionalities
 
-**Tech Stack:** `JavaScript` `React` `Node.js`
+**Tech Stack:** `C++` `limeChat`
 
-### 💡 [Project Name 3](https://github.com/yourusername/project3)
-A project that demonstrates your problem-solving abilities or learning of new concepts.
+###  [Minishell](https://github.com/Simow03/1337-minishell)
+Custom Unix-like shell replicating multiple bash functionalities
 
-**Tech Stack:** `Python` `Data Structures` `Algorithms`
+**Tech Stack:** `C` `UNIX` `shell scripting`
 
 ## 🎨 Fun Facts
 
