@@ -63,7 +63,7 @@ I'm a passionate **Computer Science student** at **1337 School (42 Network)** in
 
 <div align="center">
   
-[![mstaali's 42 stats](https://badge.mediaplus.ma/starryblue/mstaali)](https://github.com/oakoudad/badge42)
+[![mstaali's 42 stats](https://badge.mediaplus.ma/darkblue/mstaali)](https://github.com/oakoudad/badge42)
 
 </div>
 
