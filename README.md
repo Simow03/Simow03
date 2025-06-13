@@ -58,7 +58,7 @@ I'm a passionate **Computer Science student** at **1337 School (42 Network)** in
 
 ## 🎯 42 School Journey
 
-
+[![mstaali's 42 stats](https://badge.mediaplus.ma/starryblue/mstaali)](https://github.com/oakoudad/badge42)
 
 ## 🚧 Featured Projects
 
