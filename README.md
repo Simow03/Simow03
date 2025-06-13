@@ -3,8 +3,8 @@
 
 <div align="center">
 
-[![42 School](https://img.shields.io/badge/42_School-1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr/)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/Simow03)
+[![42 School](https://img.shields.io/badge/42_School-1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mstaali)
+[![GitHub followers](https://img.shields.io/github/followers/Simow03?style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/Simow03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-staali-x03/)
 
 </div>
@@ -45,8 +45,8 @@ I'm a passionate **Computer Science student** at **1337 School (42 Network)** in
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simow03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simow03&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -58,21 +58,7 @@ I'm a passionate **Computer Science student** at **1337 School (42 Network)** in
 
 ## 🎯 42 School Journey
 
-```
-┌─ 42 Network Progress ─────────────────────────────────┐
-│                                                        │
-│  🎓 School: 1337 (42 Network) - Casablanca           │
-│  📅 Started: [Your Start Date]                        │
-│  💪 Current Level: [Your Current Level]               │
-│  🏆 Projects Completed: [Number of Projects]          │
-│                                                        │
-│  Key Projects:                                         │
-│  • Libft - Custom C library implementation            │
-│  • ft_printf - Printf function recreation             │
-│  • [Add your completed projects here]                 │
-│                                                        │
-└────────────────────────────────────────────────────────┘
-```
+
 
 ## 🚧 Featured Projects
 
